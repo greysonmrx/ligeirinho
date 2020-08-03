@@ -36,6 +36,6 @@ Here are the links to them
 
 ## :memo: License
 
-This project is licensed under the MIT License - see the [LICENSE.md](license.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
 
 Made with :hearts: by Greyson :wave: [See my linkedin](https://www.linkedin.com/in/greyson-mascarenhas-5a21ab1a2/)
